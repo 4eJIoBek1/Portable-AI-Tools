@@ -125,121 +125,121 @@ Automatic1111 sdwebui with StableSR extension [CUDA/CPU] - in downloads / [sourc
 Automatic1111 Stable Diffusion base (without models) - [link](https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases)  / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 
 ![+TieBC](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/4029bdb7-a57e-4e0c-88b6-179fffac6e25)
 
-Automatic1111 deliberate v2 (sd1.5) model [CUDA/CPU][DIRECTX/CPU] - in downloads / source / webui  / directx webui / model 
+Automatic1111 deliberate v2 (sd1.5) model [CUDA/CPU][DIRECTX/CPU] - in downloads / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [directx webui](https://github.com/lshqqytiger/stable-diffusion-webui-directml) / [model](https://civitai.com/models/4823/deliberate) 
 
-Automatic1111 Illuminati Diffusion (sd2.1) model [CUDA/CPU] - in downloads / source / webui  / model 
+Automatic1111 Illuminati Diffusion (sd2.1) model [CUDA/CPU] - in downloads / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [model](https://huggingface.co/Sosaka/Illuminati) 
 
-Automatic1111 SDXL 1.0 (sdxl) model [CUDA/CPU] - in downloads
+Automatic1111 SDXL 1.0 (sdxl) model [CUDA/CPU] - in downloads  / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [model](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) / [refiner](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) 
 
- / source / webui  / model / refiner 
-
-Fooocus (sdxl) [CUDA] - link- also in downloads / source / webui / model / refiner  
+Fooocus (sdxl) [CUDA] - [link](https://github.com/lllyasviel/Fooocus/releases) - also in downloads / [source](https://github.com/Stability-AI/generative-models) / [webui](https://github.com/lllyasviel/Fooocus) / [model](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) / [refiner](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0)  
 ![N0TvWv](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/f8c9ecd3-7a8a-40fd-8e4a-ba15ecb26425)
 
-ComfyUI (without models) [CUDA/CPU] - link - also in downloads / source / webui 
+ComfyUI (without models) [CUDA/CPU] - [link](https://github.com/comfyanonymous/ComfyUI/releases/tag/latest) - also in downloads / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/comfyanonymous/ComfyUI) 
 ![9K2p0q](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/5140cdfb-6c9d-4497-83a4-006ec63ad436)
 
 ### -IMAGE EDITING BY PROMPT-
 
-Automatic1111 Instructpix2pix (sd1.5) model (you also can download just model and use in default automatic1111 if you want, webui doesnt downloads any other files while loading this one) [DIRECTX/CPU][CUDA/CPU] - in downloads / source / ip2p source / webui  / directx webui / model 
+Automatic1111 Instructpix2pix (sd1.5) model (you also can download just model and use in default automatic1111 if you want, webui doesnt downloads any other files while loading this one) [DIRECTX/CPU][CUDA/CPU] - in downloads / [source](https://github.com/CompVis/stable-diffusion) / [ip2p source](https://github.com/timothybrooks/instruct-pix2pix) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [directx webui](https://github.com/lshqqytiger/stable-diffusion-webui-directml) / [model](http://instruct-pix2pix.eecs.berkeley.edu/instruct-pix2pix-00-22000.ckpt) 
 ![pRlbFS](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/b6e3faf2-5c05-42b8-ab13-42b112f15bbb)
 
 ### -IMAGE TO IMAGE VARIATIONS-
 
-Automatic1111 sd-unclip (sd2.1) model (there is an alternative that works without any models - controlnet reference) [CUDA/CPU] - in downloads / source / webui  / model 
+Automatic1111 sd-unclip (sd2.1) model (there is an alternative that works without any models - controlnet reference) [CUDA/CPU] - in downloads / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [model](https://huggingface.co/stabilityai/stable-diffusion-2-1-unclip) 
 ![L_jgdU](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/b3c72e70-8161-44ac-bf5c-cb17a657e86e)
 
 ### -IMAGE EDITING BY CONCEPTS-
 
-LEDITS webui [CUDA/CPU] - in downloads / source / webui 
+LEDITS webui [CUDA/CPU] - in downloads / [source](https://editing-images-project.hf.space/index.html) / [webui](https://huggingface.co/spaces/editing-images/ledits) 
 ![DnMv_m](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/97c53916-9140-416a-a18a-33655f47778c)
 
 ### -OBJECT REMOVING-
 
-lama cleaner [CPU] - in downloads / source / webui / online demo
+lama cleaner [CPU] - in downloads / [source](https://github.com/advimman/lama) / [webui](https://github.com/Sanster/lama-cleaner) / [online demo](https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama)
 ![DRH647](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/0f0be598-cc5f-43eb-be5a-2f9704e16ea3)
 
 ### -VIDEO FRAMES INTERPOLATION-
 
-Flowframes [CUDA/Vulkan] - in downloads / source / gui 
+Flowframes [CUDA/Vulkan] - in downloads / [source](https://github.com/megvii-research/ECCV2022-RIFE) / [gui](https://nmkd.itch.io/flowframes) 
 ![TQuffB](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/6269d94d-5167-4815-878c-9015744db83b)
 
 ### -VIDEO UPSCALING-
 
-RealBasicVSR (cli interface) [CUDA/CPU] - in downloads / source 
+RealBasicVSR (cli interface) [CUDA/CPU] - in downloads / [source](https://github.com/ckkelvinchan/RealBasicVSR) 
 ![_vuHXH](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/f0377526-7f0c-4304-ac33-0b990a527e5b)
 
 ### -TEXT2VIDEO-
 
-Automatic1111 sdwebui with animatediff extension [CUDA/CPU] - in downloads / source / webui / extension / model / online demo 
+Automatic1111 sdwebui with animatediff extension [CUDA/CPU] - in downloads / [source](https://github.com/guoyww/AnimateDiff) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [extension](https://github.com/continue-revolution/sd-webui-animatediff) / [model](https://huggingface.co/guoyww/animatediff/resolve/main/mm_sd_v15_v2.ckpt) / [online demo](https://huggingface.co/spaces/guoyww/AnimateDiff) 
 ![GCnPWI](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/902932b2-2601-45ab-8e20-b29f54646841)
 
 ### -VIDEO HUMAN MATTING-
 
-RobustVideoMatting (w/o gui) [CUDA/CPU] - in downloads / source / online demo 
+RobustVideoMatting (w/o gui) [CUDA/CPU] - in downloads / [source](https://github.com/PeterL1n/RobustVideoMatting) / [online demo](https://replicate.com/arielreplicate/robust_video_matting) 
 
 ### -VIDEO ZERO-SHOT MATTING-
 
-Track-anything webui [CPU] - in downloads / webui / online demo 
+Track-anything webui [CPU] - in downloads / [webui](https://github.com/gaomingqi/Track-Anything) / [online demo](https://huggingface.co/spaces/VIPLab/Track-Anything) 
 ![6CycXj](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/dfaa0b1d-ebb2-4fab-87e9-16e780e347db)
 
 ### -VIDEO FEW-SHOT MATTING VIA TRAINING-
 
-DeepXTools by Iperov [CUDA] - link - also in downloads
+DeepXTools by Iperov [CUDA] - [link](https://github.com/iperov/DeepXTools/releases/tag/install_win_nvidia) - also in downloads
 ![DDSrO3](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/c1dafee7-6f1b-475a-8581-7ff2f09e1527)
 
 ### -ZERO-SHOT DEEPFAKING-
 
-Roop neurogen mod (Refacer model) (lightning fast, has realtime deepfake on webcam function) (the refacer model swaps faces better than simswap, but have only 128px resolution and may have more artifacts when head is on side) [DirectX/CUDA/CPU] - in downloads / source / webui / mod by 
+Roop neurogen mod (Refacer model) (lightning fast, has realtime deepfake on webcam function) (the refacer model swaps faces better than simswap, but have only 128px resolution and may have more artifacts when head is on side) [DirectX/CUDA/CPU] - in downloads / [source](https://github.com/deepinsight/insightface/tree/master/web-demos/swapping_discord) / [webui](https://github.com/s0md3v/roop) / [mod by](https://t.me/neurogen_news) 
 ![b_Utz3](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/27d4efd0-7a38-4235-b541-f0fa6d47fda7)
 
-Deepinsight Refacer gradio webui (replaces only certain faces, has cool face upscale feature) [CUDA] - in downloads / source / webui / mod by 
+Deepinsight Refacer gradio webui (replaces only certain faces, has cool face upscale feature) [CUDA] - in downloads / [source](https://github.com/deepinsight/insightface/tree/master/web-demos/swapping_discord) / [webui](https://github.com/xaviviro/refacer) / [mod by](https://t.me/neurogen_news) 
 ![CpoDoO](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/ea4ab998-bd43-424d-9ee4-77c32fea2516)
 ![pu1Fil](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/d25bdf25-20a4-44a7-b560-7194d1e90758)
 
-Simswap (w/o gui) [CUDA/CPU] - in downloads / source 
+Simswap (w/o gui) [CUDA/CPU] - in downloads / [source](https://github.com/neuralchen/SimSwap) 
 
 ### -DEEPFAKING VIA TRAINING-
 
-DeepFaceLab (w/o gui) [DirectX][CUDA] - link - also in downloads / source 
+DeepFaceLab (w/o gui) [DirectX][CUDA] - [link](https://mega.nz/folder/Po0nGQrA#dbbttiNWojCt8jzD4xYaPw) - also in downloads / [source](https://github.com/iperov/DeepFaceLab) 
 ![JCOsSh](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/b3cf0428-03ea-4d60-8277-a10c91ab1384)
 
-DeepfaceLive [DirectX][CUDA] - link  - also in downloads / source 
+DeepfaceLive [DirectX][CUDA] - [link](https://mega.nz/folder/m10iELBK#Y0H6BflF9C4k_clYofC7yA)  - also in downloads / [source](https://github.com/iperov/DeepFaceLive) 
 ![Oqsg3B](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/d9259454-f8a3-4e70-8262-fc43e66893ed)
 
 ### -LIPS MANIPULATION ON VIDEO-
 
-wav2lip gui [CUDA/CPU] - link - also in downloads / source / gui  
+wav2lip gui [CUDA/CPU] - [link](https://github.com/dunnousername/Wav2Lip/releases) - also in downloads / [source](https://github.com/Rudrabha/Wav2Lip) / [gui](https://github.com/dunnousername/Wav2Lip)  
 ![_HsMGK](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/25f9034d-c365-48c7-85af-44f6351a29f4)
 
 ### -SINGLE IMAGE To MESH-
 
-TripoSR (outputs is still rough, but better, than shap-e) [CUDA/CPU] - in downloads / source / online demo 
+TripoSR (outputs is still rough, but better, than shap-e) [CUDA/CPU] - in downloads / [source](https://github.com/VAST-AI-Research/TripoSR) / [online demo](https://huggingface.co/spaces/stabilityai/TripoSR) 
 ![tJncCo](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/f2be69d6-13ee-4938-b570-d155994187b8)
 
 ### -TEXT To 3D-
 
-Shap-E webui [this model is legacy][CUDA/CPU] -in downloads / source / webui
+Shap-E webui [this model is legacy][CUDA/CPU] -in downloads / [source](https://github.com/openai/shap-e) / [webui](https://huggingface.co/spaces/hysts/Shap-E)
 ![0mjkaG](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/8d803e6d-a1b3-4c59-84f0-d1e302a8450a)
 
-Point-E webui [this model is legacy][CUDA/CPU] (results are worse than shap-e) - in downloads / source / webui 
+Point-E webui [this model is legacy][CUDA/CPU] (results are worse than shap-e) - in downloads / [source](https://github.com/openai/point-e) / [webui](https://huggingface.co/spaces/anzorq/point-e_demo) 
 ![wLgG6G](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/f02492ed-1eeb-4b70-bacb-65181df6f2b8)
 
 ### -MESH GENERATION BY IMAGES-
 
-Dust3r webui (one model that does end-to-end photogrammetry, useful when traditional photogrammetry software like metashape dont determines camera positions, but quality may be bad) [CUDA/CPU] - in downloads / source 
+Dust3r webui (one model that does end-to-end photogrammetry, useful when traditional photogrammetry software like metashape dont determines camera positions, but quality may be bad) [CUDA/CPU] - in downloads / [source](https://github.com/naver/dust3r) 
 ![4pkVwk](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/45129750-884e-4c67-ae88-0d53d5deea19)
 
 ### -NOVEL VIEWS GENERATION BY IMAGES-
 
-NERFStudio (splatfacto, nerfacto) [CUDA/CPU(cpu is extremely slow,but working)] - in downloads / source 
+NERFStudio (splatfacto, nerfacto) [CUDA/CPU(cpu is extremely slow,but working)] - in downloads / [source](https://github.com/nerfstudio-project/nerfstudio) 
 ![pzsvz7](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/3bee44bd-1c9d-45be-9575-bfe961788a99)
 
 --------------------------------------------------------------
 
-You can theoretically run these tools on windows 7, jut download this file and place it along with python.exe
+You can theoretically run these tools on windows 7, jut download [this](https://huggingface.co/datasets/4eJIoBek/PAIT-Downloads/resolve/main/api-ms-win-core-path-l1-1-0.dll?download=true) file and place it along with python.exe
 
 --------------------------------------------------------------
+
+Page on itch.io: https://gz1k.itch.io/ai-portable-tools
 
 Alternative downloads with torrents on Archive.org: https://archive.org/details/@takeonme1?tab=uploads
 
