@@ -8,123 +8,121 @@ This is my collection of portable AI packages to run it fast without anxious hea
 
 ### -TEXT-
 
-Koboldai (without models) [CPU/CUDA] - link - also in downloads / online demo
+Koboldai (without models) [CPU/CUDA] - [link](https://github.com/KoboldAI/KoboldAI-Client/releases/) - also in downloads / [online demo](https://lite.koboldai.net/)
 ![Pyu6ch](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/3de9a9b0-51a9-436c-b4cb-c903a39ef987)
 
 ### -CHAT-
-Mistral-7B-openorca 4bit koboldcpp webui (can also load mmproj loras to chat with images) [CPU/OpenCL] - in downloads 
+Mistral-7B-openorca 4bit koboldcpp webui (can also load mmproj loras to chat with images) [CPU/OpenCL] - in downloads / [source](https://github.com/ggerganov/llama.cpp) / [webui](https://github.com/LostRuins/koboldcpp/releases) / [model](https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-GGUF)
 ![3uQIJs](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/6f513e6e-241c-4197-847f-20a5108848ab)
 
-/ source / webui / model
-
-Mobile AI Distribution (MAID) (same as koboldcpp, but multiplatform win-linux-andoid) [CPU] - link - also in downloads
+Mobile AI Distribution (MAID) (same as koboldcpp, but multiplatform win-linux-andoid) [CPU] - [link](https://github.com/Mobile-Artificial-Intelligence/maid/releases) - also in downloads
 ![QdKnzH](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/5d8e357f-070e-44d2-9326-42b267626fa8)
 
 ### -CHAT WITH DOCUMENTS-
 
-LocalGPT Llama2-7b (w/o gui) [CUDA(tokenizing only, chat on cpu)/CPU] - in downloads / source
+LocalGPT Llama2-7b (w/o gui) [CUDA(tokenizing only, chat on cpu)/CPU] - in downloads / [source](https://github.com/PromtEngineer/localGPT)
 
 ### -TRANSLATE-
 
-Facebook NLLB 600m webui [CPU] - in downloads / source / webui / model / online demo 
+Facebook NLLB 600m webui [CPU] - in downloads / [source](https://github.com/facebookresearch/fairseq/tree/nllb) / [webui](https://huggingface.co/spaces/Geonmo/nllb-translation-demo) / [model](https://huggingface.co/facebook/nllb-200-distilled-600M) / [online demo](https://huggingface.co/spaces/Geonmo/nllb-translation-demo) 
 ![lXex_i](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/6eca7d80-023e-4cd6-958b-0f1e012fd804)
 
 ### -MIDI MUSIC GENERATION-
 
-Midi composer app [CUDA][CPU] - link - also in downloads / source / online demo 
+Midi composer app [CUDA][CPU] - [link](https://github.com/SkyTNT/midi-model/releases/tag/v1.1.0) - also in downloads / [source](https://github.com/SkyTNT/midi-model) / [online demo](https://huggingface.co/spaces/skytnt/midi-composer) 
 ![MtgLrP](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/81c3f404-f911-400c-a158-ee6263a336aa)
 
- Multitrack midi music generator (generates short jingles, each instrument generated separately) [CPU] - in downloads / webui 
+ Multitrack midi music generator (generates short jingles, each instrument generated separately) [CPU] - in downloads / [webui](https://huggingface.co/spaces/juancopi81/multitrack-midi-music-generator) 
 ![OaDVXD](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/16faaa78-977e-4f96-9739-efa3e5516c6a)
 
 ### -TEXT TO MUSIC/AUDIO-
 
-AudioCraft Plus [CUDA/CPU] - in downloads / source / webui / online demo  
+AudioCraft Plus [CUDA/CPU] - in downloads / [source](https://github.com/facebookresearch/audiocraft) / [webui](https://github.com/GrandaddyShmax/audiocraft_plus) / [online demo](https://huggingface.co/spaces/facebook/MusicGen)
 ![_WK2ix](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/72acb464-e4dc-4c91-92cd-c961a3be396e)
 
 ### -TEXT TO SPEECH-
 
-Coqui XTTS2 webui (voice cloning is more "stable" than bark, but less artistic) [CUDA/CPU] - in downloads / source / webui  
+Coqui XTTS2 webui (voice cloning is more "stable" than bark, but less artistic) [CUDA/CPU] - in downloads / [source](https://github.com/coqui-ai/TTS) / [webui](https://github.com/BoltzmannEntropy/xtts2-ui)  
 ![VJx3TB](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/88396f95-e3a6-408f-bc17-da86d4a50119)
 
-Suno ai Bark webui (tts is more chaotic than xtts, but if you have patience, you can roll ideal variant) (with zeroshot voice conversion) [CUDA/CPU] - in downloads / source / webui / online demo 
+Suno ai Bark webui (tts is more chaotic than xtts, but if you have patience, you can roll ideal variant) (with zeroshot voice conversion) [CUDA/CPU] - in downloads / [source](https://github.com/suno-ai/bark) / [webui](https://github.com/C0untFloyd/bark-gui) / [online demo](https://huggingface.co/spaces/suno/bark) 
 ![sbdCsJ](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/47d8bd44-8cef-47d7-8340-fcd5b0ee293f)
 
-TorToiSe webui (english-only) [CUDA/CPU] - in downloads / source / webui / online demo 
+TorToiSe webui (english-only) [CUDA/CPU] - in downloads / [source](https://github.com/neonbjb/tortoise-tts) / [webui](https://git.ecker.tech/mrq/ai-voice-cloning) / [online demo](https://replicate.com/afiaka87/tortoise-tts) 
 ![V+ecJL](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/4b0a53ec-b7d0-4397-b633-d48a7130df57)
 
 ### -VOICE CONVERSION VIA TRAINING-
 
-RVC singing voice cloning webui [CUDA] - link - also in downloads / source  
+RVC singing voice cloning webui [CUDA] - [link](https://huggingface.co/lj1995/VoiceConversionWebUI/tree/main) - also in downloads / [source](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/README.en.md)  
 ![eh0sNS](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/35a25e3b-e675-4356-b033-83476c717b2d)
 
 ### -VOICE ZEROSHOT CONVERSION-
 
-FreeVC webui [CPU] - in downloads / source / webui 
+FreeVC webui [CPU] - in downloads / [source](https://github.com/OlaWod/FreeVC) / [webui](https://huggingface.co/spaces/OlaWod/FreeVC) 
 ![3gjyBR](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/75d9059a-33b8-4389-b625-d886d8bbfe71)
 
 ### -VOICE TO TEXT-
 
-Whispercpp GUI [DirectX/CPU] - link - also in downloads / source / gui / online demo 
+Whispercpp GUI [DirectX/CPU] - [link](https://github.com/Const-me/Whisper/releases/) - also in downloads / [source](https://github.com/ggerganov/whisper.cpp) / [gui](https://github.com/Const-me/Whisper) / [online demo](https://replicate.com/openai/whisper) 
 ![b40V2M](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/47d5aaec-dc74-4a5d-869c-bf31ca7f277d)
 
 ### -UNIVERSAL AUDIO RESTORATION-
 
-AudioSR (cli interface) [CUDA/CPU] - in downloads / source 
+AudioSR (cli interface) [CUDA/CPU] - in downloads / [source](https://github.com/haoheliu/versatile_audio_super_resolution) 
 <img width="1038" alt="pSN++5" src="https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/b28d6e70-9ac8-4709-996e-9f32e3680b5e">
 
 ### -VOCALS RESTORATION-
 
-VoiceFixer webui [CPU] - in downloads / source / webui 
+VoiceFixer webui [CPU] - in downloads / [source](https://github.com/haoheliu/voicefixer) / [webui](https://huggingface.co/spaces/Kevin676/VoiceFixer) 
 ![mBGt_7](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/939ccd00-d4ce-4367-9c27-d8e1a8575ba0)
 
 ### -DUAL SPEAKER SPEECH SEPARATION-
 
-Dual Path RNN (w/o gui) [CPU] - in downloads / source 
+Dual Path RNN (w/o gui) [CPU] - in downloads / [source](https://github.com/JusperLee/Dual-Path-RNN-Pytorch) 
 ![+TNNVI](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/ebedcd51-1495-47f6-92ad-915645e5a0ab)
 
 ### -STEMS EXTRACTION BY PROMPT-
 
-AudioSep webui [CUDA/CPU] - in downloads / source / webui 
+AudioSep webui [CUDA/CPU] - in downloads / [source](https://github.com/Audio-AGI/AudioSep) / [webui](https://huggingface.co/spaces/Audio-AGI/AudioSep) 
 ![mn8vdd](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/3de6384a-0488-4bf9-a7ad-009341e20453)
 
 ### -VOCALS/STEMS EXTRACTION-
 
-UVR [CPU/CUDA] - link - also in downloads / online demo  
+UVR [CPU/CUDA] - [link](https://github.com/Anjok07/ultimatevocalremovergui/releases/) - also in downloads / [online demo](https://mvsep.com/)  
 ![qFgCLF](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/4f9d1674-1f3c-4c37-b4d6-7884e3ab5b41)
 
-Demucs gui [CPU][CUDA] - link - also in downloads / source / gui 
+Demucs gui [CPU][CUDA] - [link](https://carlgao4.github.io/demucs-gui/) - also in downloads / [source](https://github.com/facebookresearch/demucs) / [gui](https://github.com/CarlGao4/Demucs-Gui) 
 ![tuB6Y9](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/1ede69d6-3886-42d8-b1b3-c7807cc1ae6a)
 
 ### -IMAGE COLORIZATION-
 
-DeOldify .NET gui [CPU] - link - also in downloads / source / gui / online demo 
+DeOldify .NET gui [CPU] - [link](https://github.com/ColorfulSoft/DeOldify.NET/releases) - also in downloads / [source](https://github.com/jantic/DeOldify) / [gui](https://github.com/ColorfulSoft/DeOldify.NET) / [online demo](https://huggingface.co/spaces/leonelhs/deoldify) 
 ![33sfKM](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/b9b057bc-8c50-4e9a-8fb9-9d61118b4769)
 
 ### -ZEROSHOT IMAGE MATTING-
 
-DIS (BRIAAI RMBG 1.4 model) webui [CPU] - in downloads / source / webui / model 
+DIS (BRIAAI RMBG 1.4 model) webui [CPU] - in downloads / [source](https://github.com/xuebinqin/DIS) / [webui](https://huggingface.co/spaces/ECCV2022/dis-background-removal) / [model](https://huggingface.co/briaai/RMBG-1.4) 
 ![5JcFs9](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/4f09a933-6227-467e-8437-83eb4fc2cadb)
 
 ### -MONOCULAR-DEPTH-ESTIMATION-
 
-ZoeDepth-webui [CUDA/CPU][CPU] - in downloads / source / webui  
+ZoeDepth-webui [CUDA/CPU][CPU] - in downloads / [source](https://github.com/isl-org/ZoeDepth) / [webui](https://huggingface.co/spaces/shariqfarooq/ZoeDepth)  
 ![NoFmUy](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/937a1063-d5ba-425a-a1de-4fe02e0f7acb)
 
 ### -IMAGE UPSCALING-
 
-real-ESRGAN-gui [Vulkan] - link - also in downloads / source / gui / online demo 
+real-ESRGAN-gui [Vulkan] - [link](https://github.com/TransparentLC/realesrgan-gui/releases) - also in downloads / [source](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan) / [gui](https://github.com/TransparentLC/realesrgan-gui) / [online demo](https://replicate.com/xinntao/realesrgan) 
 ![Xw5SMF](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/4be99cbf-ef91-42ce-bf27-904a1121ab7b)
 
-ChaiNNer (supports a LOT of upscaling methods) [CUDA/Vulkan] - link - also in downloads / gui 
+ChaiNNer (supports a LOT of upscaling methods) [CUDA/Vulkan] - [link](https://github.com/chaiNNer-org/chaiNNer/releases) - also in downloads / [gui](https://github.com/chaiNNer-org/chaiNNer) 
 ![x8Xf3y](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/1cd7e216-a27a-4b52-a177-c2a944edd369)
 
-Automatic1111 sdwebui with StableSR extension [CUDA/CPU] - in downloads / source / webui / extension 
+Automatic1111 sdwebui with StableSR extension [CUDA/CPU] - in downloads / [source](https://github.com/IceClear/StableSR) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [extension](https://github.com/pkuliyi2015/sd-webui-stablesr) 
 ![12BEYB](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/bdbf23cd-b4c4-42ed-b762-31f3008a33e2)
 
 ### -TEXT2IMAGE-
 
-Automatic1111 Stable Diffusion base (without models) - link  / webui 
+Automatic1111 Stable Diffusion base (without models) - [link](https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases)  / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 
 ![+TieBC](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/4029bdb7-a57e-4e0c-88b6-179fffac6e25)
 
 Automatic1111 deliberate v2 (sd1.5) model [CUDA/CPU][DIRECTX/CPU] - in downloads / source / webui  / directx webui / model 
