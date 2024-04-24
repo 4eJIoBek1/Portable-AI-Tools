@@ -6,7 +6,7 @@ This is my collection of portable AI packages to run it fast without anxious hea
 
 !!! TO AVOID CUDA OUT OF MEMORY ERRORS, INSTALL NVIDIA DRIVERS 535 OR NEWER !!!
 
-###-TEXT-
+### -TEXT-
 
 Koboldai (without models) [CPU/CUDA] - link - also in downloads / online demo
 ![Pyu6ch](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/3de9a9b0-51a9-436c-b4cb-c903a39ef987)
