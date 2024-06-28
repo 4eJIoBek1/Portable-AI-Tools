@@ -13,7 +13,8 @@ Koboldai (without models) [CPU/CUDA] - [link](https://github.com/KoboldAI/Kobold
 
 ### -CHAT-
 Llama-3-8b-instruct-Suzume-multilingual-4bit koboldcpp webui (can also load mmproj loras to chat with images) [CPU/OpenCL/Vulkan] - in downloads / [source](https://github.com/ggerganov/llama.cpp) / [webui](https://github.com/LostRuins/koboldcpp/releases) / [model]([https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-GGUF](https://huggingface.co/QuantFactory/suzume-llama-3-8B-multilingual-GGUF))
-![3uQIJs](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/6f513e6e-241c-4197-847f-20a5108848ab)
+![3ekZFe](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/82fa4ed3-6f3e-49e8-a02a-5140aa07887f)
+
 
 Mobile AI Distribution (MAID) (same as koboldcpp, but multiplatform win-linux-android) [CPU] - [link](https://github.com/Mobile-Artificial-Intelligence/maid/releases) - also in downloads
 ![QdKnzH](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/5d8e357f-070e-44d2-9326-42b267626fa8)
