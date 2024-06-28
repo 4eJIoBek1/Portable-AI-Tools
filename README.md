@@ -38,7 +38,11 @@ Midi composer app [CUDA][CPU] - [link](https://github.com/SkyTNT/midi-model/rele
 
 ### -TEXT TO MUSIC/AUDIO-
 
-AudioCraft Plus [CUDA/CPU] - in downloads / [source](https://github.com/facebookresearch/audiocraft) / [webui](https://github.com/GrandaddyShmax/audiocraft_plus) / [online demo](https://huggingface.co/spaces/facebook/MusicGen)
+Stable Audio Open 1.0 [CUDA/CPU] - in downloads / [source](https://github.com/Stability-AI/stable-audio-tools)​ / [model](https://huggingface.co/stabilityai/stable-audio-open-1.0)​ / [online demo](https://huggingface.co/spaces/ameerazam08/stableaudio-open-1.0)​ 
+![stableaudioopen](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/566b2707-65e9-4b6a-beb3-5e6d6951afd7)
+
+
+[this model is in legacy] AudioCraft Plus [CUDA/CPU] - in downloads / [source](https://github.com/facebookresearch/audiocraft) / [webui](https://github.com/GrandaddyShmax/audiocraft_plus) / [online demo](https://huggingface.co/spaces/facebook/MusicGen)
 ![_WK2ix](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/72acb464-e4dc-4c91-92cd-c961a3be396e)
 
 ### -TEXT TO SPEECH-
