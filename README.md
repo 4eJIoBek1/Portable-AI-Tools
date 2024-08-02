@@ -12,9 +12,8 @@ Koboldai (without models) [CPU/CUDA] - [link](https://github.com/KoboldAI/Kobold
 ![Pyu6ch](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/3de9a9b0-51a9-436c-b4cb-c903a39ef987)
 
 ### -CHAT-
-Llama-3-8b-instruct-Suzume-multilingual-4bit koboldcpp webui (can also load mmproj loras to chat with images) [CPU/OpenCL/Vulkan] - in downloads / [source](https://github.com/ggerganov/llama.cpp) / [webui](https://github.com/LostRuins/koboldcpp/releases) / [model]([https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-GGUF](https://huggingface.co/QuantFactory/suzume-llama-3-8B-multilingual-GGUF))
-![3ekZFe](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/82fa4ed3-6f3e-49e8-a02a-5140aa07887f)
-
+Meta-Llama-3.1-8B-Instruct-Q4_K_S koboldcpp webui (can also load mmproj loras to chat with images) [Vulkan/OpenCL/CPU] - in downloads  / [source](https://github.com/ggerganov/llama.cpp) / [webui](https://github.com/LostRuins/koboldcpp/releases) / [model](https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF)
+![llama31koboldcpp](https://github.com/user-attachments/assets/6a512dc8-3070-42a6-a1d6-450491101e03)
 
 Mobile AI Distribution (MAID) (same as koboldcpp, but multiplatform win-linux-android) [CPU] - [link](https://github.com/Mobile-Artificial-Intelligence/maid/releases) - also in downloads
 ![QdKnzH](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/5d8e357f-070e-44d2-9326-42b267626fa8)
@@ -127,14 +126,16 @@ Automatic1111 sdwebui with StableSR extension [CUDA/CPU] - in downloads / [sourc
 
 ### -TEXT2IMAGE-
 
-Automatic1111 Stable Diffusion base (without models) - [link](https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases)  / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 
+Automatic1111 Stable Diffusion webui base (without models) - [link](https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases)  / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 
 ![+TieBC](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/4029bdb7-a57e-4e0c-88b6-179fffac6e25)
 
-Automatic1111 deliberate v2 (sd1.5) model [CUDA/CPU][DIRECTX/CPU] - in downloads / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [directx webui](https://github.com/lshqqytiger/stable-diffusion-webui-directml) / [model](https://civitai.com/models/4823/deliberate) 
+Automatic1111 sd-webui deliberate v2 (sd1.5) model [CUDA/CPU][DIRECTX/CPU] - in downloads / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [directx webui](https://github.com/lshqqytiger/stable-diffusion-webui-directml) / [model](https://huggingface.co/XpucT/Deliberate) 
 
-Automatic1111 Illuminati Diffusion (sd2.1) model [CUDA/CPU] - in downloads / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [model](https://huggingface.co/Sosaka/Illuminati) 
+lllyasviel sd-webui-forge (faster and less vram usage on nvidia cards) deliberate v2 (sd1.5) model [CUDA] - in downloads / [source](https://github.com/lllyasviel/stable-diffusion-webui-forge) / [model](https://huggingface.co/XpucT/Deliberate) 
 
-Automatic1111 SDXL 1.0 (sdxl) model [CUDA/CPU] - in downloads  / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [model](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) / [refiner](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) 
+Automatic1111 sd-webui Illuminati Diffusion (sd2.1) model [CUDA/CPU] - in downloads / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [model](https://huggingface.co/Sosaka/Illuminati) 
+
+Automatic1111 sd-webui SDXL 1.0 (sdxl) model [CUDA/CPU] - in downloads  / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [model](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) / [refiner](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) 
 
 Fooocus (sdxl) [CUDA] - [link](https://github.com/lllyasviel/Fooocus/releases) - also in downloads / [source](https://github.com/Stability-AI/generative-models) / [webui](https://github.com/lllyasviel/Fooocus) / [model](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) / [refiner](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0)  
 ![N0TvWv](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/f8c9ecd3-7a8a-40fd-8e4a-ba15ecb26425)
@@ -219,14 +220,6 @@ wav2lip gui [CUDA/CPU] - [link](https://github.com/dunnousername/Wav2Lip/release
 
 TripoSR (outputs is still rough, but better, than shap-e) [CUDA/CPU] - in downloads / [source](https://github.com/VAST-AI-Research/TripoSR) / [online demo](https://huggingface.co/spaces/stabilityai/TripoSR) 
 ![tJncCo](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/f2be69d6-13ee-4938-b570-d155994187b8)
-
-### -TEXT To 3D-
-
-Shap-E webui [this model is legacy][CUDA/CPU] -in downloads / [source](https://github.com/openai/shap-e) / [webui](https://huggingface.co/spaces/hysts/Shap-E)
-![0mjkaG](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/8d803e6d-a1b3-4c59-84f0-d1e302a8450a)
-
-Point-E webui [this model is legacy][CUDA/CPU] (results are worse than shap-e) - in downloads / [source](https://github.com/openai/point-e) / [webui](https://huggingface.co/spaces/anzorq/point-e_demo) 
-![wLgG6G](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/f02492ed-1eeb-4b70-bacb-65181df6f2b8)
 
 ### -MESH GENERATION BY IMAGES-
 
