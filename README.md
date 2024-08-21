@@ -124,6 +124,11 @@ ChaiNNer (supports a LOT of upscaling methods) [CUDA/Vulkan] - [link](https://gi
 Automatic1111 sdwebui with StableSR extension [CUDA/CPU] - in downloads / [source](https://github.com/IceClear/StableSR) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [extension](https://github.com/pkuliyi2015/sd-webui-stablesr) 
 ![12BEYB](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/bdbf23cd-b4c4-42ed-b762-31f3008a33e2)
 
+### -IMAGE RELIGHTING-
+
+IC-Light webui [CUDA] - in downloads / [source](https://github.com/lllyasviel/IC-Light) ![iclight](https://github.com/user-attachments/assets/b92dd9be-7a21-43a9-ad6f-59598582c272)
+
+
 ### -TEXT2IMAGE-
 
 Automatic1111 Stable Diffusion webui base (without models) - [link](https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases)  / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 
