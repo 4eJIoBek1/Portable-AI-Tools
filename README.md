@@ -1,6 +1,6 @@
 DOWNLOADS: https://huggingface.co/datasets/4eJIoBek/PAIT-Downloads/tree/main
 
-This is my collection of portable AI packages to run it fast without anxious headache in console, sort of "Awesome N" repos, but for portables for win. initially, I made these tools for myself, but maybe someone else will need them. All portables can work offline and tested on gtx 1050 ti 4gb(cuda) and core i3 1005g1 (cpu). OK, heres the list:
+This is my collection of portable AI packages, mainly for video/audio production to run it fast without anxious headache in console, sort of "Awesome N" repos, but for portables for win. initially, I made these tools for myself, but maybe someone else will need them. All portables can work offline and tested on gtx 1050 ti 4gb(cuda) and core i3 1005g1 (cpu). OK, heres the list:
 
 !!! IF SOMETHING ISN'T WORKING, MAKE SURE THAT PATH TO TOOL DON'T HAVE SPACES OR NON-ENGLISH SYMBOLS !!!
 
@@ -12,20 +12,11 @@ Koboldai (without models) [CPU/CUDA] - [link](https://github.com/KoboldAI/Kobold
 ![Pyu6ch](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/3de9a9b0-51a9-436c-b4cb-c903a39ef987)
 
 ### -CHAT-
-Meta-Llama-3.1-8B-Instruct-Q4_K_S koboldcpp webui (can also load mmproj loras to chat with images) [Vulkan/OpenCL/CPU] - in downloads  / [source](https://github.com/ggerganov/llama.cpp) / [webui](https://github.com/LostRuins/koboldcpp/releases) / [model](https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF)
+Google Gemma 3 4B Instruct Q4_0(QAT) koboldcpp webui [Vulkan/OpenCL/CPU] - in downloads / [source](https://github.com/ggerganov/llama.cpp) / [webui](https://github.com/LostRuins/koboldcpp/releases) / [model](https://huggingface.co/google/gemma-3-4b-it-qat-q4_0-gguf)
 ![llama31koboldcpp](https://github.com/user-attachments/assets/6a512dc8-3070-42a6-a1d6-450491101e03)
 
 Mobile AI Distribution (MAID) (same as koboldcpp, but multiplatform win-linux-android) [CPU] - [link](https://github.com/Mobile-Artificial-Intelligence/maid/releases) - also in downloads
 ![QdKnzH](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/5d8e357f-070e-44d2-9326-42b267626fa8)
-
-### -CHAT WITH DOCUMENTS-
-
-LocalGPT Llama2-7b (w/o gui) [CUDA(tokenizing only, chat on cpu)/CPU] - in downloads / [source](https://github.com/PromtEngineer/localGPT)
-
-### -TRANSLATE-
-
-Facebook NLLB 600m webui [CPU] - in downloads / [source](https://github.com/facebookresearch/fairseq/tree/nllb) / [webui](https://huggingface.co/spaces/Geonmo/nllb-translation-demo) / [model](https://huggingface.co/facebook/nllb-200-distilled-600M) / [online demo](https://huggingface.co/spaces/Geonmo/nllb-translation-demo) 
-![lXex_i](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/6eca7d80-023e-4cd6-958b-0f1e012fd804)
 
 ### -MIDI MUSIC GENERATION-
 
@@ -39,10 +30,6 @@ Midi composer app [CUDA][CPU] - [link](https://github.com/SkyTNT/midi-model/rele
 
 Stable Audio Open 1.0 [CUDA/CPU] - in downloads / [source](https://github.com/Stability-AI/stable-audio-tools)​ / [model](https://huggingface.co/stabilityai/stable-audio-open-1.0)​ / [online demo](https://huggingface.co/spaces/ameerazam08/stableaudio-open-1.0)​ 
 ![stableaudioopen](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/566b2707-65e9-4b6a-beb3-5e6d6951afd7)
-
-
-[this model is in legacy] AudioCraft Plus [CUDA/CPU] - in downloads / [source](https://github.com/facebookresearch/audiocraft) / [webui](https://github.com/GrandaddyShmax/audiocraft_plus) / [online demo](https://huggingface.co/spaces/facebook/MusicGen)
-![_WK2ix](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/72acb464-e4dc-4c91-92cd-c961a3be396e)
 
 ### -TEXT TO SPEECH-
 
@@ -138,8 +125,6 @@ Automatic1111 sd-webui deliberate v2 (sd1.5) model [CUDA/CPU][DIRECTX/CPU] - in 
 
 lllyasviel sd-webui-forge (faster and less vram usage on nvidia cards) deliberate v2 (sd1.5) model [CUDA] - in downloads / [source](https://github.com/lllyasviel/stable-diffusion-webui-forge) / [model](https://huggingface.co/XpucT/Deliberate) 
 
-Automatic1111 sd-webui Illuminati Diffusion (sd2.1) model [CUDA/CPU] - in downloads / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [model](https://huggingface.co/Sosaka/Illuminati) 
-
 Automatic1111 sd-webui SDXL 1.0 (sdxl) model [CUDA/CPU] - in downloads  / [source](https://github.com/CompVis/stable-diffusion) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  / [model](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) / [refiner](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0) 
 
 Fooocus (sdxl) [CUDA] - [link](https://github.com/lllyasviel/Fooocus/releases) - also in downloads / [source](https://github.com/Stability-AI/generative-models) / [webui](https://github.com/lllyasviel/Fooocus) / [model](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) / [refiner](https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0)  
@@ -177,11 +162,6 @@ Flowframes [CUDA/Vulkan] - in downloads / [source](https://github.com/megvii-res
 
 RealBasicVSR (cli interface) [CUDA/CPU] - in downloads / [source](https://github.com/ckkelvinchan/RealBasicVSR) 
 ![_vuHXH](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/f0377526-7f0c-4304-ac33-0b990a527e5b)
-
-### -TEXT2VIDEO-
-
-Automatic1111 sdwebui with animatediff extension [CUDA/CPU] - in downloads / [source](https://github.com/guoyww/AnimateDiff) / [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [extension](https://github.com/continue-revolution/sd-webui-animatediff) / [model](https://huggingface.co/guoyww/animatediff/resolve/main/mm_sd_v15_v2.ckpt) / [online demo](https://huggingface.co/spaces/guoyww/AnimateDiff) 
-![GCnPWI](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/902932b2-2601-45ab-8e20-b29f54646841)
 
 ### -VIDEO HUMAN MATTING-
 
@@ -229,16 +209,18 @@ TripoSR (outputs is still rough, but better, than shap-e) [CUDA/CPU] - in downlo
 ### -MESH GENERATION BY IMAGES-
 
 Dust3r webui (one model that does end-to-end photogrammetry, useful when traditional photogrammetry software like metashape dont determines camera positions, but quality may be bad) [CUDA/CPU] - in downloads / [source](https://github.com/naver/dust3r) 
-![4pkVwk](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/45129750-884e-4c67-ae88-0d53d5deea19)
+![demo](https://github.com/user-attachments/assets/24c15430-32be-4d20-b842-8e0d3f6e2e9f)
+
 
 ### -NOVEL VIEWS GENERATION BY IMAGES-
 
 NERFStudio (splatfacto, nerfacto) [CUDA/CPU(cpu is extremely slow,but working)] - in downloads / [source](https://github.com/nerfstudio-project/nerfstudio) 
-![pzsvz7](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/3bee44bd-1c9d-45be-9575-bfe961788a99)
+![nerfstudio](https://github.com/user-attachments/assets/806dbddd-1e61-4fa8-8072-aee5c168075e)
+
 
 --------------------------------------------------------------
 
-You can theoretically run these tools on windows 7, jut download [this](https://huggingface.co/datasets/4eJIoBek/PAIT-Downloads/resolve/main/api-ms-win-core-path-l1-1-0.dll?download=true) file and place it along with python.exe
+You can theoretically run these tools on windows 7, just download [this](https://huggingface.co/datasets/4eJIoBek/PAIT-Downloads/resolve/main/api-ms-win-core-path-l1-1-0.dll?download=true) file and place it along with python.exe
 
 --------------------------------------------------------------
 
