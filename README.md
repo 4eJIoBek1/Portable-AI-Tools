@@ -16,7 +16,8 @@ Google Gemma 3 4B Instruct Q4_0(QAT) koboldcpp webui [Vulkan/OpenCL/CPU] - in do
 ![llama31koboldcpp](https://github.com/user-attachments/assets/6a512dc8-3070-42a6-a1d6-450491101e03)
 
 ChatterUI (same as koboldcpp, but on android) [CPU] - [link](https://github.com/Vali-98/ChatterUI/releases/) - also in downloads
-![QdKnzH](https://github.com/4eJIoBek1/Portable-AI-Tools/assets/109795993/5d8e357f-070e-44d2-9326-42b267626fa8)
+![chat](https://github.com/user-attachments/assets/9e240ae8-59df-45b2-9c18-56fc41215bf2)
+
 
 ### -MIDI MUSIC GENERATION-
 
