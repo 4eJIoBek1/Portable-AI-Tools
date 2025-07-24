@@ -229,4 +229,3 @@ Page on itch.io: https://gz1k.itch.io/ai-portable-tools
 
 Alternative downloads with torrents on Archive.org: https://archive.org/details/@takeonme1?tab=uploads
 
-Page on civitai: https://civitai.com/models/104609
